@@ -16,6 +16,7 @@ Promptly is a dynamic web platform built on the MERN stack (MongoDB, Express, Re
 - *Backend*: Node.js and Express.js for API and server-side logic.
 - *Database*: MongoDB for storing user data and prompts.
 
+
 ## Installation
 
 1. Clone the repository:
