@@ -57,7 +57,6 @@ Promptly is a dynamic web platform built on the MERN stack (MongoDB, Express, Re
 5. Open your browser and navigate to http://localhost:3000.
 
 
-
 promptly/
 ├── Frontend/       # Frontend code (React)
 ├── Backend/       # Backend code (Express)
